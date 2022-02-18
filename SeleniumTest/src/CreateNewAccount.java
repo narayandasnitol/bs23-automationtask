@@ -5,8 +5,8 @@ public class CreateNewAccount {
 
 	String firstName = "Narayan Das";
 	String lastName = "Nitol";
-	String email = "mytestemail" + random.nextInt(10000) + "@gmail.com";
-	String password = "mytestmail" + random.nextInt(10000) + random.nextInt(100) + "automation";
+	String email = "testmailbs23" + random.nextInt(10000) + random.nextInt(100) + "@yahoo.com";
+	String password = "testmailbs23" + random.nextInt(10000) + random.nextInt(100) + "@yahoo.com";
 	String address = "200 street, London, UK";
 	String city = "London";
 	String state = "Alaska";
